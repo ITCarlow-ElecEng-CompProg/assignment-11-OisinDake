@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512164720 source:c:\users\dakeoisin\desktop\cp pc\cp\comp prog\lab 11\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<cstdio>
+
